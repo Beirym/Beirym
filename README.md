@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Beirym
+- 👀 I’m interested in backend, bots and software development.
+- 🌱 I’m currently learning create websites on Django.
+- 💞️ I’m looking to collaborate on backend and bots development.
+- 📫 How to reach me: **silaev@asure.su**
