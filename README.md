@@ -6,6 +6,6 @@ I have experience working with the API of many large services and social network
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beirym&show_icons=true&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beirym&show_icons=true&theme=radical) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beirym&theme=radical)
 
 
