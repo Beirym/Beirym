@@ -6,6 +6,6 @@ I have experience working with the API of many large services and social network
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Beirym&theme=radical)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beirym&show_icons=true&theme=radical)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
